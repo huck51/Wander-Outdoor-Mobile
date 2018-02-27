@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, TextInput } from 'react-native';
 
 export default class App extends React.Component {
   render() {
@@ -7,7 +7,7 @@ export default class App extends React.Component {
       <View style={styles.container}>
         <Text>Wander Outdoor!</Text>
         <Text>We are on Slack and Trello now!</Text>
-        <Text>Ferda</Text>
+        <TextInput />
       </View>
     );
   }
