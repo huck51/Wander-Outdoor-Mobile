@@ -1,5 +1,7 @@
 {
   "expo": {
+    "name": "Wander Outdoor",
+    "slug": "wander-outdoor",
     "sdkVersion": "25.0.0"
   }
 }
