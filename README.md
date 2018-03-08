@@ -1,1 +1,1 @@
-# Wander-Outdoor-Mobile
+# Our product, the Wander app is essentially an Uber for outdoor guides. Completely mobile, customizable and easy to use, it connects outdoor guides with potential clients. Simply tell us what you want to do and we'll find the right guide to help you do it.
