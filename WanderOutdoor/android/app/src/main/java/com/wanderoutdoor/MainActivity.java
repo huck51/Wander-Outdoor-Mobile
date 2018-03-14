@@ -1,6 +1,7 @@
 package com.wanderoutdoor;
 
 import com.facebook.react.ReactActivity;
+import com.learnium.RNDeviceInfo.RNDeviceInfo;
 
 public class MainActivity extends ReactActivity {
 
@@ -12,4 +13,13 @@ public class MainActivity extends ReactActivity {
     protected String getMainComponentName() {
         return "WanderOutdoor";
     }
+    /*
+    @Override
+    protected List<ReactPackage> getPackages() {
+      return Arrays.<ReactPackage>asList(
+        new RNDeviceInfo(),
+        new MainReactPackage()
+      );
+    }
+    */
 }
