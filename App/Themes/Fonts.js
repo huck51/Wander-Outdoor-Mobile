@@ -1,6 +1,6 @@
 const type = {
-  base: 'Avenir-Book',
-  bold: 'Avenir-Black',
+  base: 'DK Lemon Yellow Sun',
+  bold: 'DK Lemon Yellow Sun',
   emphasis: 'HelveticaNeue-Italic'
 }
 
@@ -24,6 +24,8 @@ const style = {
     fontSize: size.h1
   },
   h2: {
+    textAlign: 'center',
+    color: 'rgba(104,131,191,1)',
     fontWeight: 'bold',
     fontSize: size.h2
   },
