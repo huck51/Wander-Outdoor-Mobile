@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  WanderOutdoor
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
@@ -65,3 +66,6 @@ The `.env` file is ignored by git keeping those secrets out of your repo.
 2. Add your config variables
 3. Follow instructions at [https://github.com/luggit/react-native-config#setup](https://github.com/luggit/react-native-config#setup)
 4. Done!
+=======
+# Our product, the Wander app is essentially an Uber for outdoor guides. Completely mobile, customizable and easy to use, it connects outdoor guides with potential clients. Simply tell us what you want to do and we'll find the right guide to help you do it.
+>>>>>>> eeecaa9ce971585465e59ecbd38a3c0e6fa00f83
